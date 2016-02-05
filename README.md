@@ -3,6 +3,6 @@
 
 This repository contains all documentation and code relevant to the Senior Design Project implemented by the above authors. 
 
-To-Do list:
-	- Proposal
-	- Details of project
+### To-Do list:
+* Proposal
+* Details of project
